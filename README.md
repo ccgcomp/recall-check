@@ -23,12 +23,14 @@ Built on the Document Intelligence pipeline from the CEN 4010 Guide to Canonical
 | E11 Audit log, append-only | `recall_check/audit.py` | Built |
 | E7 Coordinator rules, E10 Access gate | | Not built yet |
 
+Where the build differs from the design, the change and its reason are recorded in [docs/DESIGN_CHANGES.md](docs/DESIGN_CHANGES.md).
+
 ## Setup
 Requires Python 3.10 or newer. No packages to install.
 
 ```
-git clone https://github.com/ccgcomp/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/ccgcomp/recall-check.git
+cd recall-check
 ```
 
 ## Configuration
@@ -65,7 +67,7 @@ Recall notices are public records from the [openFDA food enforcement endpoint](h
 To be completed.
 
 ## AI assistance
-To be completed.
+Claude helped draft the code, tests and documentation, and every draft was run and checked before it was kept. Inside the prototype, AI is used in one place only: reading codes out of a notice. [docs/AI_ASSISTANCE.md](docs/AI_ASSISTANCE.md) records what AI did, what was checked, and what was rejected or revised.
 
 ## Repository
-https://github.com/ccgcomp/<repository-name>
+https://github.com/ccgcomp/recall-check
