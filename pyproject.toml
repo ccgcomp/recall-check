@@ -1,0 +1,12 @@
+[project]
+name = "recall-check"
+version = "0.1.0"
+description = "AI-assisted recall notice matching for store-level shelf checks"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Cody Graham" }]
+dependencies = []
+
+[project.scripts]
+recall-check = "recall_check.__main__:main"
