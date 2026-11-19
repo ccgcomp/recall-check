@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0286-2026",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:16:17+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"brand\", \"value\": \"Deep\", \"source_text\": \"Deep-brand\"}, {\"type\": \"product_name\", \"value\": \"PREMIUM Select Peas and Carrots\", \"source_text\": \"PREMIUM Select Peas and Carrots\"}, {\"type\": \"pack_size\", \"value\": \"2 LB (907 g)\", \"source_text\": \"2 LB (907 g)\"}, {\"type\": \"lot\", \"value\": \"25006\", \"source_text\": \"25006\"}, {\"type\": \"lot\", \"value\": \"25035\", \"source_text\": \"25035\"}, {\"type\": \"lot\", \"value\": \"25044\", \"source_text\": \"25044\"}, {\"type\": \"lot\", \"value\": \"25072\", \"source_text\": \"25072\"}, {\"type\": \"lot\", \"value\": \"25080\", \"source_text\": \"25080\"}, {\"type\": \"lot\", \"value\": \"25104\", \"source_text\": \"25104\"}, {\"type\": \"lot\", \"value\": \"25114\", \"source_text\": \"25114\"}, {\"type\": \"lot\", \"value\": \"25140\", \"source_text\": \"25140\"}, {\"type\": \"lot\", \"value\": \"25167\", \"source_text\": \"25167\"}], \"uninterpreted\": []}\n"
+}

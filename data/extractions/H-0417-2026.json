@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0417-2026",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:16:29+00:00",
+  "raw_response": "{\"items\": [\n{\"type\": \"brand\", \"value\": \"SOMA KITCHEN\", \"source_text\": \"SOMA KITCHEN\"},\n{\"type\": \"product_name\", \"value\": \"NATURAL ASAFOETIDA\", \"source_text\": \"NATURAL ASAFOETIDA\"},\n{\"type\": \"pack_size\", \"value\": \"4 oz (0.25 lb)\", \"source_text\": \"Net Wt. 4 oz (0.25 lb)\"},\n{\"type\": \"date\", \"value\": \"2027-07\", \"source_text\": \"Use by : JULY-2027\"},\n{\"type\": \"lot\", \"value\": \"NATL/ASFTP/G/24\", \"source_text\": \"Lot : NATL/ASFTP/G/24\"},\n{\"type\": \"lot\", \"value\": \"BB/ASFTP/G/24\", \"source_text\": \"(BB/ASFTP/G/24)\"},\n{\"type\": \"upc\", \"value\": \"4973993173586\", \"source_text\": \"UPC : 4 973993 173586\"}\n],\n\"uninterpreted\": [\"JULY-2027\"]}\n"
+}

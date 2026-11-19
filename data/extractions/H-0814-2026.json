@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0814-2026",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:16:39+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"brand\", \"value\": \"Ellsworth\", \"source_text\": \"Ellsworth\"}, {\"type\": \"product_name\", \"value\": \"Ellsworth Sour Cream + Onion Seasoning\", \"source_text\": \"Ellsworth Sour Cream + Onion Seasoning\"}, {\"type\": \"other_code\", \"value\": \"180000113\", \"source_text\": \"180000113\"}, {\"type\": \"pack_size\", \"value\": \"25.00 lbs (11.3kg)\", \"source_text\": \"Net Wt 25.00 lbs (11.3kg)\"}, {\"type\": \"lot\", \"value\": \"2026-51127\", \"source_text\": \"2026-51127\"}], \"uninterpreted\": []}\n"
+}

@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0389-2026",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:16:26+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"product_name\", \"value\": \"Shrimp Paste (Klong Kone) 'M'\", \"source_text\": \"Shrimp Paste (Klong Kone) 'M'\"}, {\"type\": \"brand\", \"value\": \"Klong Kone\", \"source_text\": \"Klong Kone\"}, {\"type\": \"pack_size\", \"value\": \"16 oz\", \"source_text\": \"16 oz\"}, {\"type\": \"pack_size\", \"value\": \"24 count\", \"source_text\": \"24 count\"}, {\"type\": \"pack_size\", \"value\": \"24 packages/ case\", \"source_text\": \"24 packages/ case\"}, {\"type\": \"lot\", \"value\": \"DPA159\", \"source_text\": \"DPA159\"}], \"uninterpreted\": []}\n"
+}

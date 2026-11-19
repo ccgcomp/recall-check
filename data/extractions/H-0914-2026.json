@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0914-2026",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:16:41+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"brand\", \"value\": \"Lunds & Byerly's\", \"source_text\": \"Lunds & Byerly's\"}, {\"type\": \"product_name\", \"value\": \"Curry Powder Sweet\", \"source_text\": \"Curry Powder Sweet\"}, {\"type\": \"lot\", \"value\": \"0082026U00232\", \"source_text\": \"0082026U00232\"}, {\"type\": \"date\", \"value\": \"2029-01-26\", \"source_text\": \"01/26/2029\"}], \"uninterpreted\": []}\n"
+}

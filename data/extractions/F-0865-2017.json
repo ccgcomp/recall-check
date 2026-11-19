@@ -1,0 +1,6 @@
+{
+  "notice_id": "F-0865-2017",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:15:36+00:00",
+  "raw_response": "{\"items\": [\n{\"type\": \"brand\", \"value\": \"Koi Palace\", \"source_text\": \"Koi Palace\"},\n{\"type\": \"product_name\", \"value\": \"Mini Moon Cake: Single Box - Mini Oolong Tea Paste\", \"source_text\": \"Mini Moon Cake: Single Box - Mini Oolong Tea Paste\"},\n{\"type\": \"pack_size\", \"value\": \"1/2 lb.\", \"source_text\": \"1/2 lb.\"},\n{\"type\": \"pack_size\", \"value\": \"1/4 lb.\", \"source_text\": \"1/4 lb.\"},\n{\"type\": \"pack_size\", \"value\": \"1 piece\", \"source_text\": \"1 piece\"},\n{\"type\": \"pack_size\", \"value\": \"4, 6 or 8 pieces\", \"source_text\": \"4, 6 or 8 pieces\"},\n{\"type\": \"other_code\", \"value\": \"FG-M1MOT-UW\", \"source_text\": \"FG-M1MOT-UW\"},\n{\"type\": \"date\", \"value\": \"2016-11-01\", \"source_text\": \"Nov 1, 2016\"}\n],\n\"uninterpreted\": []}\n"
+}

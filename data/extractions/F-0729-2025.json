@@ -1,0 +1,6 @@
+{
+  "notice_id": "F-0729-2025",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:15:30+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"product_name\", \"value\": \"Spermidine, Maximum Strength, 10 mg per serving, Support healthy Aging, Dietary Supplement\", \"source_text\": \"Spermidine, Maximum Strength, 10 mg per serving, Support healthy Aging, Dietary Supplement\"}, {\"type\": \"pack_size\", \"value\": \"120 Capsules\", \"source_text\": \"120 Capsules\"}, {\"type\": \"pack_size\", \"value\": \"120 count\", \"source_text\": \"120 count\"}, {\"type\": \"lot\", \"value\": \"12792402-44\", \"source_text\": \"Lot 12792402-44\"}], \"uninterpreted\": []}\n"
+}

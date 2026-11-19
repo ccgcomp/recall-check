@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0254-2025",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:16:02+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"brand\", \"value\": \"C Sweet\", \"source_text\": \"C Sweet\"}, {\"type\": \"product_name\", \"value\": \"Maamoul with Dates\", \"source_text\": \"Maamoul with Dates\"}, {\"type\": \"pack_size\", \"value\": \"8 oz\", \"source_text\": \"8 oz.\"}, {\"type\": \"upc\", \"value\": \"852664042694\", \"source_text\": \"852664042694\"}, {\"type\": \"date\", \"value\": \"2025-07-15\", \"source_text\": \"7/15/2025\"}], \"uninterpreted\": []}\n"
+}

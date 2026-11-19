@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0245-2025",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:15:59+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"product_name\", \"value\": \"USA OG2 LEEKS\", \"source_text\": \"USA OG2 LEEKS\"}, {\"type\": \"upc\", \"value\": \"07-40695-94629\", \"source_text\": \"07-40695-94629\"}, {\"type\": \"other_code\", \"value\": \"442\", \"source_text\": \"case code: 442\"}], \"uninterpreted\": []}\n"
+}

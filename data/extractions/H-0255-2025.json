@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0255-2025",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:16:05+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"brand\", \"value\": \"C Sweet\", \"source_text\": \"C Sweet\"}, {\"type\": \"product_name\", \"value\": \"Sweet Kaak\", \"source_text\": \"Sweet Kaak\"}, {\"type\": \"pack_size\", \"value\": \"12 oz.\", \"source_text\": \"12 oz.\"}, {\"type\": \"upc\", \"value\": \"721782348912\", \"source_text\": \"721782348912\"}, {\"type\": \"date\", \"value\": \"2025-07-15\", \"source_text\": \"7/15/2025\"}], \"uninterpreted\": []}\n"
+}

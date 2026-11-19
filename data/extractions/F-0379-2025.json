@@ -1,0 +1,6 @@
+{
+  "notice_id": "F-0379-2025",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:13:15+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"brand\", \"value\": \"Nick The Greek\", \"source_text\": \"Nick The Greek\"}, {\"type\": \"product_name\", \"value\": \"Spicy Yogurt Pail\", \"source_text\": \"Spicy Yogurt Pail\"}, {\"type\": \"pack_size\", \"value\": \"42lbs pail\", \"source_text\": \"42lbs pail\"}, {\"type\": \"upc\", \"value\": \"10075365177756\", \"source_text\": \"10075365177756\"}, {\"type\": \"other_code\", \"value\": \"SA000085\", \"source_text\": \"SKU SA000085\"}, {\"type\": \"lot\", \"value\": \"4305\", \"source_text\": \"Lot 4305\"}], \"uninterpreted\": []}\n"
+}

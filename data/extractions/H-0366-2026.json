@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0366-2026",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:16:23+00:00",
+  "raw_response": "{\"items\":[{\"type\":\"brand\",\"value\":\"Sapori\",\"source_text\":\"Sapori\"},{\"type\":\"product_name\",\"value\":\"Amaretti Almonds Cookies\",\"source_text\":\"Amaretti Almonds 175 g Cookies\"},{\"type\":\"pack_size\",\"value\":\"175 g\",\"source_text\":\"175 g\"},{\"type\":\"lot\",\"value\":\"L355122 1\",\"source_text\":\"Lot L355122 1\"},{\"type\":\"lot\",\"value\":\"L355246 1\",\"source_text\":\"LotL355246 1\"}],\"uninterpreted\":[\"02.05.2026\",\"03.09.2026\"]}\n"
+}

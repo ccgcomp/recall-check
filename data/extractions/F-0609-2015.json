@@ -1,0 +1,6 @@
+{
+  "notice_id": "F-0609-2015",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:15:27+00:00",
+  "raw_response": "{\"items\":[{\"type\":\"product_name\",\"value\":\"Crema GuateLinda (Guatemalan Style Cream)\",\"source_text\":\"Crema GuateLinda (Guatemalan Style Cream)\"},{\"type\":\"brand\",\"value\":\"Lacteos Santa Martha\",\"source_text\":\"Lacteos Santa Martha\"},{\"type\":\"pack_size\",\"value\":\"1 LB (16 oz)\",\"source_text\":\"Net WT 1 LB (16 oz)\"},{\"type\":\"upc\",\"value\":\"635349000390\",\"source_text\":\"635349 000390\"},{\"type\":\"date_range\",\"value\":\"2014-07-01/2014-12-31\",\"source_text\":\"07/01/14 thru 12/31/14\"},{\"type\":\"product_name\",\"value\":\"Quesito Casero Fresh Curd\",\"source_text\":\"Quesito Casero Fresh Curd\"},{\"type\":\"date\",\"value\":\"2014-09-27\",\"source_text\":\"9/27/14\"},{\"type\":\"product_name\",\"value\":\"Cuajada en Hoja Queso Casero Hecho a Mano Fresh Curd\",\"source_text\":\"Cuajada en Hoja Queso Casero Hecho a Mano Fresh Curd\"},{\"type\":\"date\",\"value\":\"2014-10-18\",\"source_text\":\"10/18/14\"},{\"type\":\"date\",\"value\":\"2014-11-25\",\"source_text\":\"11/25/14\"}],\"uninterpreted\":[]}\n"
+}

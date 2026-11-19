@@ -1,0 +1,6 @@
+{
+  "notice_id": "F-0801-2025",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:15:33+00:00",
+  "raw_response": "{\"items\": [{\"type\": \"brand\", \"value\": \"New England Village Snacks\", \"source_text\": \"New England Village Snacks\"}, {\"type\": \"product_name\", \"value\": \"The 19th Hole Snack Mix\", \"source_text\": \"The 19th Hole Snack Mix\"}, {\"type\": \"pack_size\", \"value\": \"5 oz.\", \"source_text\": \"5 oz.\"}, {\"type\": \"pack_size\", \"value\": \"10 oz.\", \"source_text\": \"10 oz.\"}, {\"type\": \"upc\", \"value\": \"609465693477\", \"source_text\": \"609465693477\"}, {\"type\": \"upc\", \"value\": \"642147152459\", \"source_text\": \"642147152459\"}], \"uninterpreted\": [\"10 0z.\", \"All codes recalled\"]}\n"
+}

@@ -1,0 +1,6 @@
+{
+  "notice_id": "F-0276-2017",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:13:13+00:00",
+  "raw_response": "{\"items\": [\n{\"type\": \"product_name\", \"value\": \"CytoDetox\", \"source_text\": \"CytoDetox\"},\n{\"type\": \"product_name\", \"value\": \"Hydrolyzed Clinoptilolite Fragments\", \"source_text\": \"Hydrolyzed Clinoptilolite Fragments\"},\n{\"type\": \"pack_size\", \"value\": \"1 oz.\", \"source_text\": \"1 oz.\"},\n{\"type\": \"pack_size\", \"value\": \"30 mL\", \"source_text\": \"30 mL\"},\n{\"type\": \"upc\", \"value\": \"632687615989\", \"source_text\": \"632687615989\"},\n{\"type\": \"lot\", \"value\": \"30661601\", \"source_text\": \"30661601\"},\n{\"type\": \"date\", \"value\": \"2018-05\", \"source_text\": \"05/2018\"}\n],\n\"uninterpreted\": [\"05/2018\"]}\n"
+}

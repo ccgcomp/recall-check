@@ -1,0 +1,6 @@
+{
+  "notice_id": "H-0076-2025",
+  "extractor_version": "claude-code-cli/p1",
+  "recorded_at": "2026-11-13T02:15:49+00:00",
+  "raw_response": "{\"items\": [\n{\"type\": \"brand\", \"value\": \"Nature Mills\", \"source_text\": \"Nature Mills\"},\n{\"type\": \"product_name\", \"value\": \"Vallarai Rice Mix\", \"source_text\": \"Vallarai Rice Mix\"},\n{\"type\": \"pack_size\", \"value\": \"200g\", \"source_text\": \"200g\"},\n{\"type\": \"other_code\", \"value\": \"VRMIXG\", \"source_text\": \"VRMIXG\"},\n{\"type\": \"date\", \"value\": \"2025-10\", \"source_text\": \"OCT-2025\"},\n{\"type\": \"other_code\", \"value\": \"VRMXIIG\", \"source_text\": \"VRMXIIG\"},\n{\"type\": \"date\", \"value\": \"2026-01\", \"source_text\": \"JAN-2026\"},\n{\"type\": \"other_code\", \"value\": \"VRMVH\", \"source_text\": \"VRMVH\"},\n{\"type\": \"date\", \"value\": \"2026-06\", \"source_text\": \"JUN-2026\"}\n],\n\"uninterpreted\": []}\n"
+}
